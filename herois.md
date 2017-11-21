@@ -5,4 +5,4 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
-* Jessica Jones
+* Jessica Jones és de Marvel
